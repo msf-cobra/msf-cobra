@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDB1MjNwMXA0bDRvdDdrZjNncG9za3k4c2syN3o5YXAyczdqazYzbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vZu2VmycJ890tP5IdH/giphy.gif" width="500" height="250">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDB1MjNwMXA0bDRvdDdrZjNncG9za3k4c2syN3o5YXAyczdqazYzbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vZu2VmycJ890tP5IdH/giphy.gif" width="500" height="500">
 </p>
 
 <h1 align="center">🛡️ MSF-COBRA</h1>
