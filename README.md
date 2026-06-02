@@ -1,5 +1,10 @@
 <p align="center">
   <img src="banner.jpg" />
+
+</p>
+
+<p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmdmanNqdWJwMGZkMGdjdGwxd244MWJiZnVobzNtM3Y2dG54NHRwMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTiTnx37nc3vjsdeLK/giphy.gif" width="700">
 </p>
 
 <h1 align="center">🛡️ MSF-COBRA</h1>
