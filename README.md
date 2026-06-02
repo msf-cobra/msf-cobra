@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="banner.jpg" />
-
-</p>
 
 <p align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWlxcnRpYmV4cW0ybXowNGhhenUyajdvOHNtNmR6ZzQzNXZjcHl0eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LlKN0pAfAduGRYWdbQ/giphy.gif" width="700">
