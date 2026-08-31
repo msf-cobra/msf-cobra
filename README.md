@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  Offensive Security • Software Development • Linux • Continuous Learning
+  Offensive Security • Programming • Continuous Learning
 </p>
 
 ---
@@ -21,10 +21,10 @@
 ## 👨‍💻 About Me
 
 * 🎓 Future Computer Science Student
-* 🛡️ Studying Offensive Security & Red Team Operations
-* 💻 Developing with Java, PHP, Python and JavaScript
-* 🐧 Exploring Linux, networking and system administration
-* 🚀 Building projects while continuously improving my technical skills
+* 🔍 Studying Offensive Security & Red Team Operations
+* 💻 Web Development & Programming
+* 🐧 Linux Enthusiast
+* 🚀 Building projects and continuously improving my skills
 
 ---
 
@@ -35,7 +35,7 @@
 * [x] Java
 * [x] PHP
 * [x] JavaScript
-* [ ] Python — Advanced
+* [ ] Python
 * [ ] Backend Development
 * [ ] APIs & Web Services
 
@@ -72,29 +72,27 @@
 
 ---
 
-## 🛠️ Technologies
+## 🛠️ Tech Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=java,php,python,javascript,html,css,git,github,linux,bash,docker" />
-
+  <img src="https://skillicons.dev/icons?i=java,php,python,javascript,html,css,git,github,linux,bash,docker" />
 </p>
 
 ---
 
-## 📌 Currently Learning
+## 📂 Projects
 
-```text
-[████████████████░░░░] Linux
-[██████████████░░░░░░] Networking
-[███████████░░░░░░░░░] Bash
-[████████░░░░░░░░░░░░] Active Directory
-[██████░░░░░░░░░░░░░░] Red Team
-```
+I'm currently building projects to improve my skills in:
+
+* 🌐 Web Development
+* ⚙️ Backend Systems
+* 🔐 Cybersecurity
+* 🐧 Linux & Automation
+* 🧩 Problem Solving
 
 ---
 
-## 🔥 Goals
+## 🎯 Mission
 
 > Build. Break. Understand. Improve.
 
